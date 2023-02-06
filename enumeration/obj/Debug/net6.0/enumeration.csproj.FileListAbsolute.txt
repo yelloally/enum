@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/c_sharp/enumeration/bin/Debug/net6.0/enumeration
+/Users/yellobunny/Projects/c_sharp/enumeration/bin/Debug/net6.0/enumeration.deps.json
+/Users/yellobunny/Projects/c_sharp/enumeration/bin/Debug/net6.0/enumeration.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/enumeration/bin/Debug/net6.0/enumeration.dll
+/Users/yellobunny/Projects/c_sharp/enumeration/bin/Debug/net6.0/enumeration.pdb
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/enumeration.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/enumeration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/enumeration.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/enumeration.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/enumeration.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/enumeration.dll
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/refint/enumeration.dll
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/enumeration.pdb
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/enumeration.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/enumeration/obj/Debug/net6.0/ref/enumeration.dll
